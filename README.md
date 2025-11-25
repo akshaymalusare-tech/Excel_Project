@@ -32,6 +32,7 @@ Tools Used :
 
 Dashboard Preview :
 
-Show what the dashboard look like. - 
+Show what the dashboard look like. - [Alt text] (https://github.com/akshaymalusare-tech/Excel_Project/blob/main/Sales%20Data%20Analysis.png)
+Example :![Dashboard Preview](https://github.com/akshaymalusare-tech/Excel_Project/blob/main/Sales%20Data%20Analysis.png)
 
 
